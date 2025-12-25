@@ -5,16 +5,8 @@
 🐬 Ashley Nguyen
 🐋 Erin Dominguez
 
-## 🎓 Objectives
 
-:octocat: Use of GitHub  
-:snake: Use of Jupyter Notebooks  
-:abcd: Accessing tabular data  
-📈 Data visualization  
-🌡️ Data on global climate change
-
-
-## 📖 Content Overview
+## 📖 Overview
 
 In this notebook, we will focus on examining a crucial global issue and important scientific debate about the state of global fisheries.  We will seek to reproduce some of the most widely cited examples of species collapse ever, and examine the evidence behind an influential and widely cited paper on global fisheries, [Worm et al 2006](http://doi.org/10.1126/science.1132294).  However, rather than use the limited data available to Boris Worm and colleagues in 2006, we will be drawing from the best and most recent stock asssement data available today to see how those patterns have faired. We will also conduct our own original analysis by breaking down stock collapses by region.
 
