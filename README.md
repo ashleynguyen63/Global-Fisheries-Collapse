@@ -1,8 +1,6 @@
 # :fish: Fish Module
 
-[![Reproducibility Check](https://github.com/espm-157/fish-module-2-ashley-erin/actions/workflows/main.yml/badge.svg)](https://github.com/espm-157/fish-module-2-ashley-erin/actions/workflows/main.yml)
-
-## Team Members
+## Contributors:
 
 🐬 Ashley Nguyen
 🐋 Erin Dominguez
